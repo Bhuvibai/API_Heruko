@@ -1,0 +1,15 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+keras
+pypi-json
+fastapi
+uvicorn
+pydantic
+requests
+gunicorn
+uvloop
+httptools
+pyngrok
